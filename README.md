@@ -1,4 +1,6 @@
-# WymienGry <br> <br>
+# WymienGry <br>
+Live: https://srebrzasty.github.io/WymienGry
+<br> <br>
 
 **HTML5** <br>
 **CSS3** <br>
